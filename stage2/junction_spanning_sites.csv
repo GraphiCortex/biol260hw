@@ -1,0 +1,2 @@
+circRNA,circRNA_length_nt,miRNA,miRNA_sequence,seed_2_8,site_type,site_start_1based,site_end_1based_circular,crosses_backsplice_junction,target_site_5to3
+hsa_circ_0087640|CDC14B|TransCirc_TC-hsa-CDC14B_0017,1183,hsa-miR-6717-5p,AGGCGAUGUGGGGAUGUAGAGA,GGCGAUG,7mer-m8,1183,6,True,CATCGCC
