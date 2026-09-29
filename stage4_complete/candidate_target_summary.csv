@@ -1,0 +1,7 @@
+"sequence_rank","miRNA","circRNA_seed_2_8","circRNA_weighted_seed_score","n_unique_TargetScan_genes","n_mapped_Entrez_genes","best_score","median_score","n_score_le_minus_0_30","n_score_le_minus_0_50"
+1,"hsa-miR-217-5p","ACUGCAU",7,964,950,-0.674,-0.245,262,25
+2,"hsa-miR-5197-5p","AAUGGCA",6,1174,1158,-0.893,-0.232,277,35
+3,"hsa-miR-106a-3p","UGCAAUG",5,668,661,-0.96,-0.234,161,22
+4,"hsa-miR-136-5p","CUCCAUU",5,891,872,-0.931,-0.247,272,45
+5,"hsa-miR-3143","UAACAUU",5,533,522,-0.739,-0.241,145,16
+6,"hsa-miR-3922-5p","CAAGGCC",5,1120,1098,-0.828,-0.245,316,41
