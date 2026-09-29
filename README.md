@@ -107,32 +107,6 @@ log-rank p = 0.081
 
 The point estimate is directionally favorable for higher miR-136 expression, but the result is **not statistically significant** because the confidence interval includes 1 and `p > 0.05`.
 
-## Repository layout
-
-```text
-.
-├── BIOL260_CDC14B_report.pdf
-├── BIOL260_CDC14B_report.tex
-├── references.bib
-├── README.md
-├── .gitignore
-├── data/
-│   ├── cdc14b_circ_0087640.fasta
-│   ├── cdc14b_circrna_candidates.tsv
-│   ├── sequence_shortlist.csv
-│   ├── 04_hsa-miR-136-5p_TargetScan.csv
-│   ├── targetscan_gene_level.csv
-│   ├── candidate_target_summary.csv
-│   ├── cancer_theme_summary.csv
-│   └── km_mir136_metabric.txt
-├── figures/
-│   └── km_mir136_metabric.pdf
-└── scripts/
-    ├── 01_scan_cdc14b_circrna_mirna.py
-    ├── 02_collapse_seed_families.py
-    ├── 03_query_targetscan_multimir.R
-    └── 04_target_network_go.R
-```
 
 ## Reproducing the analysis
 
